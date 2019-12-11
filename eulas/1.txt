@@ -1,0 +1,182 @@
+TERMS OF PARTICIPATION IN TURRIS PROJECT (DATA COLLECTION)
+
+
+1. PROJECT SUBJECT AND PURPOSE
+
+1.1.
+	TURRIS is a research project of the association CZ.NIC, z. s. p. o., company identification
+	No.: 67985726, with its registered office at Milešovská 1136/5, Prague 3 (hereinafter
+	referred to as “CZ.NIC”) and its purpose is protection of home networks by means of a
+	special router (TURRIS router, hereinafter referred to as the “Device”).
+
+1.2.
+	The Device enables remote automatic updates and monitoring, analysis and collection
+	of information on security incidents in the area of computer networks, especially the
+	Internet. Detailed information is available at https://project.turris.cz/ .
+
+
+2. PARTICIPATION (DATA COLLECTION)
+
+2.1.
+	The owner or user of the Device (hereinafter referred to as the “Owner”) will join the
+	project under these Terms by voluntary active facilitating the data collection by turning
+	on the relevant feature in the user interface of the Device. By turning on this feature,
+	the Owner agrees to the inclusion of the Device into the monitoring, analysis, and
+	collection of information under these Terms and undertakes to enable CZ.NIC
+	performing the activities described herein for the entire duration of participation in the
+	project.
+
+2.2.
+	A prerequisite for participation in this part of the project is enabling automatic updates
+	of the Device, which are governed by separate Terms of Participation in Turris Project
+	(Automatic Updates of Device).
+
+
+2.3.
+	The Owner is entitled to terminate the participation in the project at any time and
+	without reason by turning off this feature in the user interface of the Device.
+
+2.4.
+	CZ.NIC is entitled to terminate Owner’s participation in the project or the project itself
+	at any time and without reason even without informing the Owner in advance.
+
+
+3. DATA COLLECTION BY MEANS OF THE DEVICE
+
+3.1.
+	CZ.NIC is entitled to monitor and collect data passing through the Device for preparing
+	security analyses and generating statistics. The subject of monitoring and collection
+	shall be:
+
+3.1.1.
+		Device identification data, information on its temperature, internal sensor voltage
+		and current, information on usage of processor and memory and its occupancy or
+		corruption, information on errors in the pre-installed software or in the software
+		installed by CZ.NIC into the Device in the course of the data subject’s participation in
+		the project,
+
+3.1.2.
+		communication protocol, its source and destination (technical description – packet
+		header data, allowing in particular to distinguish between IPv4/IPv6 or TCP/UDP and
+		the packet type, identification of source and destination address, source and
+		destination port, and communication time),
+
+3.1.3.
+		application layer metadata (e.g. content of DNS packets, HTTP headers, TLS
+		connection initialization certificates, etc.), provided that they are necessary for the
+		security analysis concerned and subject to the conditions set forth in paragraph 3.2,
+
+3.1.4.
+		connection statistics including packet size, protocol used, amount of data transferred
+		within a single connection, and
+
+3.1.5.
+		data from firewall unauthorized access logs in the scope corresponding to paragraph
+		3.1.2.
+
+3.2.
+	The subject of monitoring and data collection shall not include the content of
+	communication (packet internal content). CZ.NIC undertakes not to monitor and collect
+	information about the communication content (packet internal content), including
+	personal data, passwords etc., which are part of the transmitted packets, except for the
+	analysis under paragraph 3.1.3.
+
+3.3.
+	For the purposes of network availability testing (e.g. analysis of network services
+	availability), CZ.NIC is entitled to initiate the connection between the Device and third-
+	party network devices. CZ.NIC undertakes to restrict the volume of generated flows to
+	the necessary minimum and not to use the service contrary to the rights and legitimate
+	interests of end device owners/users as well as of the Owner.
+
+3.4.
+	CZ.NIC is entitled to monitor and analyze only network traffic between the internal
+	network and the Internet; traffic within the internal network shall not be monitored or
+	analyzed in any way.
+
+
+4. HANDLING OBTAINED DATA AND PERSONAL DATA PROTECTION
+
+4.1.
+	The place, method and rules for processing the data obtained, including the rules for
+	disclosure of such data, are described in the Privacy Policy issued by CZ.NIC
+	(hereinafter referred to as the “Policy”), whereas the Policy shall apply even if such
+	data are not personal data under applicable laws.
+
+4.2.
+	The processing of data provided to CZ.NIC in connection with the project which are
+	personal data under applicable laws shall be governed by the Policy.
+
+4.3.
+	CZ.NIC shall not be liable for damage incurred by the Owner as a result of suspicious
+	data flows, malicious network traffic or external attack. The purpose of the Device is
+	primarily monitoring, analysis and collection of information on security incidents,
+	research activities in the area of network security and proposals for improvements and
+	their initiation. CZ.NIC shall not provide any protection against network attacks,
+	malicious data flows and other security incidents that may occur in the Internet
+	network.
+
+5. DUTIES OF OWNER PARTICIPATING IN THE PROJECT
+
+5.1.
+	In case the Owner enables using the Device also to other persons, he/she shall inform
+	such persons of the Device functions under these Terms, as well as of the scope and
+	method of handing the data obtained under these Terms.
+
+5.2.
+	The Owner acknowledges that if he/she makes any changes to the Device software
+	(e.g. installation of further software), the activities under these Terms may be
+	restricted or disabled.
+
+5.3.
+	The Owner acknowledges and agrees that for the purposes of meeting the subject and
+	aim of the project under these Terms, there will be data transfers from and to the
+	Device, whereas the data volume transferred for at least the preceding period (usually
+	a calendar month) can be found on the user website of the project; usually, it shall not
+	exceed 500 MB per calendar month. Any and all payments for the data transfer by
+	means of the Device shall be settled by the Owner in full; the Owner shall not have any
+	claim against CZ.NIC for their settlement, even partial.
+
+5.4.
+	The Owner is not entitled to interfere in the communication between the Device and
+	servers of CZ.NIC, nor communicate with servers of CZ.NIC designed for the collection
+	of data from the Device outside of automatic communication between the Device and
+	such servers.
+
+5.5.
+	The Owner acknowledges that the analyses under these Terms should be made on the
+	widest range of devices possible in various types of networks. Therefore, it is
+	recommended to use the Device as the main access point for communication with the
+	Internet network, in accordance with its purpose for the entire duration of the
+	participation in the project, on a 24/7 basis, ideally under a public IP address. In case
+	the Owner places another network element, such as a modem, before the Device, it is
+	recommended that such network element is fully transparent for network traffic.
+
+6. FINAL PROVISIONS
+
+6.1.
+	The communication between the Owner and CZ.NIC shall be made electronically, via an
+	e-mail address of the Owner specified in the application for participation in the project.
+	CZ.NIC has assigned the e-mail address info@turris.cz for communication purposes.
+
+6.2.
+	CZ.NIC is entitled to change these Terms at any time. CZ.NIC is obliged to publish a
+	change to the Terms at https://www.turris.cz at least 1 month prior to the effectiveness
+	of such change by notification displayed on the user interface of the Device and by an
+	e-mail message sent to Owner’s e-mail address. The Owner is entitled to reject the
+	changes to these Terms by terminating his/her participation in the project under
+	paragraph 2.3 hereof. If the Owner continues in participation in the project after
+	the effective date of the change to these Terms, he/she shall be deemed to agree with
+	such change.
+
+6.3.
+	Any amendments, reservations, restrictions or deviations regarding these Terms shall
+	be excluded.
+
+6.4.
+	The relation between CZ.NIC and the Owner shall be governed by the laws of the Czech
+	Republic.
+
+6.5.
+	In case the Owner is a consumer, consumer disputes involving the Owner shall be
+	resolved out of court by Česká obchodní inspekce /Czech Trade Inspection Authority/
+    (https://www.coi.cz">www.coi.cz).
