@@ -9,7 +9,10 @@ LIST:=EULAs.csv
 all: $(LIST)
 
 $(LIST): $(EULAS)
-	for filename in $^ ; do eula_file="$$(basename $$filename)"; echo "$${eula_file%.*},\"$(DESTDIR)$$eula_file\" " >> $@; done
+	for filename in $^; do \
+		eula_file="$$(basename "$$filename")"; \
+		echo "$${eula_file%.*},\"$$eula_file\" "; \
+	done > "$@"
 
 install: $(EULAS) $(LIST)
 	install -d $(DESTDIR)
