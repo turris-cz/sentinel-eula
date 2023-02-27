@@ -178,5 +178,4 @@ TERMS OF PARTICIPATION IN TURRIS PROJECT (DATA COLLECTION)
 
 6.5.
 	In case the Owner is a consumer, consumer disputes involving the Owner shall be
-	resolved out of court by Česká obchodní inspekce /Czech Trade Inspection Authority/
-    (https://www.coi.cz">www.coi.cz).
+	resolved out of court by Česká obchodní inspekce (Czech Trade Inspection Authority) at https://www.coi.cz .
